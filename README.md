@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 作品:
 
-[提醒助手](https://babyking.github.io/rh/)
+[提醒助手](https://babyking.github.io/rh/),一款macOS下的提醒快速输入工具.
