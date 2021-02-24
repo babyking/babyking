@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=babyking&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-程序员,生活工作在北京.
+程序员,喜欢音乐,工作在北京.
 
-喜欢音乐,最近在学习钢琴即兴,欢迎写代码的同学跟我聊聊音乐:)
+
 
 作品:
 
