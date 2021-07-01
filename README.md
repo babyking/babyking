@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=babyking&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-程序员,喜欢音乐,工作在北京.
+程序员,工作在北京.
 
 
 
-作品:
+
 
 [提醒助手](https://babyking.github.io/rh/),一款macOS下的提醒快速输入工具.
